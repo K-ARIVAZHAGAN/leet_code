@@ -19,6 +19,7 @@ leet_code/
 │   ├── Best_Time_to_Buy_and_Sell_Stock.py
 │   ├── Two_Sum.py
 │   ├── Plus_One.py
+│   └── Maximum_Distance_in_Arrays.py
 │   ├── Contains_Duplicate.py
 │   ├── Remove_Element.py
 │   └── Fizz_Buzz.py
@@ -101,8 +102,10 @@ leet_code/
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Strings | [Python](Strings/Rotate_String.py) |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Strings | [Python](Strings/Zigzag_Conversion.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Strings | [Python](Strings/Length_of_Last_Word.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays | [Python](Arrays/Best_Time_to_Buy_and_Sell_Stock.py) |
+| 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Arrays | [Python](Arrays/Maximum_Distance_in_Arrays.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays | [Python](Arrays/Plus_One.py) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | [Python](Arrays/Two_Sum.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | [Python](Two_Pointers/Valid_Palindrome.py) |
