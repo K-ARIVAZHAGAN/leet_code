@@ -84,6 +84,7 @@ leet_code/
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | [Python](Binary_Search/Sqrt_x.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | [Python](Math/Palindrome_Number.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Math | [Python](Math/Add_Digits.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Math | [Python](Math/Arranging_Coins.py) |
