@@ -16,7 +16,8 @@ leet_code/
 │   ├── Intersection_of_Two_Arrays_II.py
 │   ├── Find_All_Numbers_Disappeared_in_an_Array.py
 │   ├── Majority_Element.py
-│   └── Best_Time_to_Buy_and_Sell_Stock.py
+│   ├── Best_Time_to_Buy_and_Sell_Stock.py
+│   └── Contains_Duplicate.py
 ├── Binary_Search/
 │   ├── Binary_Search.py
 │   └── Guess_Number_Higher_or_Lower.py
@@ -27,7 +28,8 @@ leet_code/
 │   ├── Ransom_Note.py
 │   ├── Destination_City.py
 │   ├── Happy_Number.py
-│   └── Single_Number.py
+│   ├── Single_Number.py
+│   └── Contains_Duplicate.py
 ├── Math/
 │   ├── Power_of_Four.py
 │   ├── Nim_Game.py
@@ -35,7 +37,9 @@ leet_code/
 │   ├── Pow_x_n.py
 │   ├── Ugly_Number.py
 │   ├── Power_of_Three.py
-│   └── Missing_Number.py
+│   ├── Missing_Number.py
+│   ├── Perfect_Number.py
+│   └── Power_of_Two.py
 ├── Sorting/
 │   └── Valid_Anagram.py
 ├── Strings/
@@ -67,6 +71,7 @@ leet_code/
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [Python](Arrays/Intersection_of_Two_Arrays_II.py) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Python](Arrays/Find_All_Numbers_Disappeared_in_an_Array.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [Python](Arrays/Majority_Element.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Table | [Python](Hash_Table/Contains_Duplicate.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Python](Binary_Search/Binary_Search.py) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
@@ -76,6 +81,8 @@ leet_code/
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [Python](Math/Ugly_Number.py) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Math | [Python](Math/Power_of_Three.py) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Math | [Python](Math/Missing_Number.py) |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Math | [Python](Math/Perfect_Number.py) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Math | [Python](Math/Power_of_Two.py) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Strings | [Python](Strings/Uncommon_Words_from_Two_Sentences.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
