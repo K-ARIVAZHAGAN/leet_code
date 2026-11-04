@@ -19,49 +19,55 @@ leet_code/
 │   ├── Best_Time_to_Buy_and_Sell_Stock.py
 │   ├── Two_Sum.py
 │   ├── Plus_One.py
-│   └── Maximum_Distance_in_Arrays.py
-│   ├── Contains_Duplicate.py
+│   ├── Maximum_Distance_in_Arrays.py
 │   ├── Remove_Element.py
 │   └── Fizz_Buzz.py
 ├── Binary_Search/
 │   ├── Binary_Search.py
+│   ├── Median_of_Two_Sorted_Arrays.py
 │   ├── Guess_Number_Higher_or_Lower.py
 │   └── Sqrt_x.py
-├── Dynamic_Programming/
-│   └── Maximum_Number_of_Points_with_Cost.py
-├── Linked_List/
-│   └── Add_Two_Numbers.py
 ├── Database/
 │   └── Rising_Temperature.sql
+├── Dynamic_Programming/
+│   └── Maximum_Number_of_Points_with_Cost.py
 ├── Hash_Table/
 │   ├── Word_Pattern.py
 │   ├── Ransom_Note.py
 │   ├── Destination_City.py
 │   ├── Happy_Number.py
 │   ├── Single_Number.py
-│   └── Find_Lucky_Integer_in_an_Array.py
+│   ├── Find_Lucky_Integer_in_an_Array.py
 │   └── Contains_Duplicate.py
+├── Linked_List/
+│   └── Add_Two_Numbers.py
 ├── Math/
-│   ├── Power_of_Four.py
 │   ├── Nim_Game.py
+│   ├── Power_of_Four.py
 │   ├── Arranging_Coins.py
 │   ├── Pow_x_n.py
 │   ├── Ugly_Number.py
 │   ├── Power_of_Three.py
 │   ├── Missing_Number.py
 │   ├── Perfect_Number.py
-│   └── Power_of_Two.py
+│   ├── Power_of_Two.py
+│   ├── Add_Digits.py
+│   ├── Palindrome_Number.py
+│   └── Reverse_Integer.py
 ├── Sorting/
 │   └── Valid_Anagram.py
 ├── Strings/
 │   ├── Uncommon_Words_from_Two_Sentences.py
 │   ├── To_Lower_Case.py
+│   ├── Detect_Capital.py
 │   ├── Merge_Strings_Alternately.py
 │   ├── Rotate_String.py
+│   ├── Zigzag_Conversion.py
 │   └── Length_of_Last_Word.py
 └── Two_Pointers/
     ├── Valid_Palindrome.py
     ├── Two_Sum_II_Input_Array_Is_Sorted.py
+    ├── Remove_Duplicates_from_Sorted_Array.py
     ├── Is_Subsequence.py
     ├── Reverse_String.py
     └── Move_Zeroes.py
