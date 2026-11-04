@@ -11,6 +11,10 @@ Solutions are organized by topic. Each problem has its own Python file named aft
 ```text
 leet_code/
 ├── README.md
+├── Arrays/
+│   ├── Find_Numbers_with_Even_Number_of_Digits.py
+│   ├── Intersection_of_Two_Arrays_II.py
+│   └── Find_All_Numbers_Disappeared_in_an_Array.py
 └── Math/
     └── Power_of_Four.py
 ```
@@ -29,6 +33,9 @@ More topic folders will be added as I solve problems.
 
 | # | Problem | Topic | Solution |
 |---:|---|---|---|
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Arrays | [Python](Arrays/Find_Numbers_with_Even_Number_of_Digits.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [Python](Arrays/Intersection_of_Two_Arrays_II.py) |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Python](Arrays/Find_All_Numbers_Disappeared_in_an_Array.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 
 ---
