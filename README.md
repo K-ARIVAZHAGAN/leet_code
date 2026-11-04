@@ -26,6 +26,8 @@ leet_code/
 │   ├── Binary_Search.py
 │   ├── Guess_Number_Higher_or_Lower.py
 │   └── Sqrt_x.py
+├── Dynamic_Programming/
+│   └── Maximum_Number_of_Points_with_Cost.py
 ├── Database/
 │   └── Rising_Temperature.sql
 ├── Hash_Table/
@@ -84,6 +86,7 @@ leet_code/
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | [Python](Binary_Search/Sqrt_x.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | [Python](Math/Reverse_Integer.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | [Python](Math/Palindrome_Number.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Math | [Python](Math/Add_Digits.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
@@ -105,6 +108,7 @@ leet_code/
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | [Python](Two_Pointers/Valid_Palindrome.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | [Python](Two_Pointers/Two_Sum_II_Input_Array_Is_Sorted.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers | [Python](Two_Pointers/Is_Subsequence.py) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Two Pointers | [Python](Two_Pointers/Remove_Duplicates_from_Sorted_Array.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers | [Python](Two_Pointers/Reverse_String.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Two Pointers | [Python](Two_Pointers/Move_Zeroes.py) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Hash Table | [Python](Hash_Table/Word_Pattern.py) |
@@ -114,6 +118,7 @@ leet_code/
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Python](Hash_Table/Single_Number.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Sorting | [Python](Sorting/Valid_Anagram.py) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database | [SQL](Database/Rising_Temperature.sql) |
+| 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | Dynamic Programming | [Python](Dynamic_Programming/Maximum_Number_of_Points_with_Cost.py) |
 
 ---
 
