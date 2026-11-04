@@ -14,9 +14,11 @@ leet_code/
 ├── Arrays/
 │   ├── Find_Numbers_with_Even_Number_of_Digits.py
 │   ├── Intersection_of_Two_Arrays_II.py
-│   └── Find_All_Numbers_Disappeared_in_an_Array.py
+│   ├── Find_All_Numbers_Disappeared_in_an_Array.py
+│   └── Majority_Element.py
 └── Math/
-    └── Power_of_Four.py
+    ├── Power_of_Four.py
+    └── Nim_Game.py
 ```
 
 More topic folders will be added as I solve problems.
@@ -36,6 +38,8 @@ More topic folders will be added as I solve problems.
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Arrays | [Python](Arrays/Find_Numbers_with_Even_Number_of_Digits.py) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [Python](Arrays/Intersection_of_Two_Arrays_II.py) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Python](Arrays/Find_All_Numbers_Disappeared_in_an_Array.py) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [Python](Arrays/Majority_Element.py) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 
 ---
