@@ -22,18 +22,29 @@ leet_code/
 │   └── Guess_Number_Higher_or_Lower.py
 ├── Database/
 │   └── Rising_Temperature.sql
+├── Hash_Table/
+│   ├── Word_Pattern.py
+│   ├── Ransom_Note.py
+│   └── Destination_City.py
 ├── Math/
 │   ├── Power_of_Four.py
 │   ├── Nim_Game.py
-│   └── Arranging_Coins.py
+│   ├── Arranging_Coins.py
+│   ├── Pow_x_n.py
+│   └── Ugly_Number.py
+├── Sorting/
+│   └── Valid_Anagram.py
 ├── Strings/
 │   ├── Uncommon_Words_from_Two_Sentences.py
 │   ├── To_Lower_Case.py
-│   └── Merge_Strings_Alternately.py
+│   ├── Merge_Strings_Alternately.py
+│   └── Rotate_String.py
 └── Two_Pointers/
     ├── Valid_Palindrome.py
     ├── Two_Sum_II_Input_Array_Is_Sorted.py
-    └── Is_Subsequence.py
+    ├── Is_Subsequence.py
+    ├── Reverse_String.py
+    └── Move_Zeroes.py
 ```
 
 ## What Each Solution Includes
@@ -57,13 +68,22 @@ leet_code/
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Math | [Python](Math/Arranging_Coins.py) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Math | [Python](Math/Pow_x_n.py) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [Python](Math/Ugly_Number.py) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Strings | [Python](Strings/Uncommon_Words_from_Two_Sentences.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Strings | [Python](Strings/Rotate_String.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays | [Python](Arrays/Best_Time_to_Buy_and_Sell_Stock.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | [Python](Two_Pointers/Valid_Palindrome.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | [Python](Two_Pointers/Two_Sum_II_Input_Array_Is_Sorted.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers | [Python](Two_Pointers/Is_Subsequence.py) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers | [Python](Two_Pointers/Reverse_String.py) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Two Pointers | [Python](Two_Pointers/Move_Zeroes.py) |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Hash Table | [Python](Hash_Table/Word_Pattern.py) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Hash Table | [Python](Hash_Table/Ransom_Note.py) |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | Hash Table | [Python](Hash_Table/Destination_City.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Sorting | [Python](Sorting/Valid_Anagram.py) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database | [SQL](Database/Rising_Temperature.sql) |
 
 ---
