@@ -25,13 +25,17 @@ leet_code/
 ├── Hash_Table/
 │   ├── Word_Pattern.py
 │   ├── Ransom_Note.py
-│   └── Destination_City.py
+│   ├── Destination_City.py
+│   ├── Happy_Number.py
+│   └── Single_Number.py
 ├── Math/
 │   ├── Power_of_Four.py
 │   ├── Nim_Game.py
 │   ├── Arranging_Coins.py
 │   ├── Pow_x_n.py
-│   └── Ugly_Number.py
+│   ├── Ugly_Number.py
+│   ├── Power_of_Three.py
+│   └── Missing_Number.py
 ├── Sorting/
 │   └── Valid_Anagram.py
 ├── Strings/
@@ -70,6 +74,8 @@ leet_code/
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Math | [Python](Math/Arranging_Coins.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Math | [Python](Math/Pow_x_n.py) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [Python](Math/Ugly_Number.py) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Math | [Python](Math/Power_of_Three.py) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Math | [Python](Math/Missing_Number.py) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Strings | [Python](Strings/Uncommon_Words_from_Two_Sentences.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
@@ -83,6 +89,8 @@ leet_code/
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Hash Table | [Python](Hash_Table/Word_Pattern.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Hash Table | [Python](Hash_Table/Ransom_Note.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | Hash Table | [Python](Hash_Table/Destination_City.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Python](Hash_Table/Happy_Number.py) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | Hash Table | [Python](Hash_Table/Single_Number.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Sorting | [Python](Sorting/Valid_Anagram.py) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database | [SQL](Database/Rising_Temperature.sql) |
 
