@@ -15,9 +15,11 @@ leet_code/
 │   ├── Find_Numbers_with_Even_Number_of_Digits.py
 │   ├── Intersection_of_Two_Arrays_II.py
 │   ├── Find_All_Numbers_Disappeared_in_an_Array.py
-│   └── Majority_Element.py
+│   ├── Majority_Element.py
+│   └── Best_Time_to_Buy_and_Sell_Stock.py
 ├── Binary_Search/
-│   └── Binary_Search.py
+│   ├── Binary_Search.py
+│   └── Guess_Number_Higher_or_Lower.py
 ├── Database/
 │   └── Rising_Temperature.sql
 ├── Math/
@@ -26,10 +28,12 @@ leet_code/
 │   └── Arranging_Coins.py
 ├── Strings/
 │   ├── Uncommon_Words_from_Two_Sentences.py
-│   └── To_Lower_Case.py
+│   ├── To_Lower_Case.py
+│   └── Merge_Strings_Alternately.py
 └── Two_Pointers/
     ├── Valid_Palindrome.py
-    └── Two_Sum_II_Input_Array_Is_Sorted.py
+    ├── Two_Sum_II_Input_Array_Is_Sorted.py
+    └── Is_Subsequence.py
 ```
 
 ## What Each Solution Includes
@@ -49,14 +53,17 @@ leet_code/
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Python](Arrays/Find_All_Numbers_Disappeared_in_an_Array.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [Python](Arrays/Majority_Element.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Python](Binary_Search/Binary_Search.py) |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Math | [Python](Math/Arranging_Coins.py) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Strings | [Python](Strings/Uncommon_Words_from_Two_Sentences.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays | [Python](Arrays/Best_Time_to_Buy_and_Sell_Stock.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | [Python](Two_Pointers/Valid_Palindrome.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | [Python](Two_Pointers/Two_Sum_II_Input_Array_Is_Sorted.py) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers | [Python](Two_Pointers/Is_Subsequence.py) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database | [SQL](Database/Rising_Temperature.sql) |
 
 ---
