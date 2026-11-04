@@ -11,13 +11,11 @@ Solutions are organized by topic. Each problem has its own Python file named aft
 ```text
 leet_code/
 ├── README.md
-├── Arrays/
-├── Strings/
-├── Two_Pointers/
-└── ...
+└── Math/
+    └── Power_of_Four.py
 ```
 
-Folders will be added as I solve problems.
+More topic folders will be added as I solve problems.
 
 ## What Each Solution Includes
 
@@ -31,7 +29,7 @@ Folders will be added as I solve problems.
 
 | # | Problem | Topic | Solution |
 |---:|---|---|---|
-| — | Solutions will be added as I submit them | — | — |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 
 ---
 
