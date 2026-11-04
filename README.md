@@ -39,6 +39,7 @@ leet_code/
 │   ├── Destination_City.py
 │   ├── Happy_Number.py
 │   ├── Single_Number.py
+│   └── Find_Lucky_Integer_in_an_Array.py
 │   └── Contains_Duplicate.py
 ├── Math/
 │   ├── Power_of_Four.py
@@ -119,6 +120,7 @@ leet_code/
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers | [Python](Two_Pointers/Reverse_String.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Two Pointers | [Python](Two_Pointers/Move_Zeroes.py) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Hash Table | [Python](Hash_Table/Word_Pattern.py) |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-in-an-array/) | Hash Table | [Python](Hash_Table/Find_Lucky_Integer_in_an_Array.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Hash Table | [Python](Hash_Table/Ransom_Note.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | Hash Table | [Python](Hash_Table/Destination_City.py) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Python](Hash_Table/Happy_Number.py) |
