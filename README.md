@@ -18,6 +18,7 @@ leet_code/
 │   ├── Majority_Element.py
 │   ├── Best_Time_to_Buy_and_Sell_Stock.py
 │   ├── Two_Sum.py
+│   ├── Plus_One.py
 │   ├── Contains_Duplicate.py
 │   ├── Remove_Element.py
 │   └── Fizz_Buzz.py
@@ -83,6 +84,7 @@ leet_code/
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | [Python](Binary_Search/Sqrt_x.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Math | [Python](Math/Add_Digits.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | [Python](Math/Power_of_Four.py) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Math | [Python](Math/Arranging_Coins.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Math | [Python](Math/Pow_x_n.py) |
@@ -97,6 +99,7 @@ leet_code/
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Strings | [Python](Strings/Rotate_String.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Strings | [Python](Strings/Length_of_Last_Word.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays | [Python](Arrays/Best_Time_to_Buy_and_Sell_Stock.py) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays | [Python](Arrays/Plus_One.py) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | [Python](Arrays/Two_Sum.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | [Python](Two_Pointers/Valid_Palindrome.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | [Python](Two_Pointers/Two_Sum_II_Input_Array_Is_Sorted.py) |
