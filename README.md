@@ -29,6 +29,8 @@ leet_code/
 │   └── Sqrt_x.py
 ├── Dynamic_Programming/
 │   └── Maximum_Number_of_Points_with_Cost.py
+├── Linked_List/
+│   └── Add_Two_Numbers.py
 ├── Database/
 │   └── Rising_Temperature.sql
 ├── Hash_Table/
@@ -77,6 +79,7 @@ leet_code/
 | # | Problem | Topic | Solution |
 |---:|---|---|---|
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Arrays | [Python](Arrays/Find_Numbers_with_Even_Number_of_Digits.py) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | [Python](Linked_List/Add_Two_Numbers.py) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [Python](Arrays/Intersection_of_Two_Arrays_II.py) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Python](Arrays/Find_All_Numbers_Disappeared_in_an_Array.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [Python](Arrays/Majority_Element.py) |
@@ -84,6 +87,7 @@ leet_code/
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays | [Python](Arrays/Remove_Element.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Arrays | [Python](Arrays/Fizz_Buzz.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Python](Binary_Search/Binary_Search.py) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search / Arrays | [Python](Binary_Search/Median_of_Two_Sorted_Arrays.py) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [Python](Binary_Search/Guess_Number_Higher_or_Lower.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | [Python](Binary_Search/Sqrt_x.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Math | [Python](Math/Nim_Game.py) |
