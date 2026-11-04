@@ -105,6 +105,7 @@ leet_code/
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Math | [Python](Math/Power_of_Two.py) |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Strings | [Python](Strings/Uncommon_Words_from_Two_Sentences.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Strings | [Python](Strings/To_Lower_Case.py) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Strings | [Python](Strings/Detect_Capital.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [Python](Strings/Merge_Strings_Alternately.py) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Strings | [Python](Strings/Rotate_String.py) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Strings | [Python](Strings/Zigzag_Conversion.py) |
